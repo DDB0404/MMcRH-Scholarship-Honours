@@ -1,3 +1,13 @@
 playwright>=1.40.0
 beautifulsoup4>=4.12.0
 requests>=2.31.0
+
+# Audio processing dependencies
+faster-whisper>=1.0.0
+pyannote.audio>=3.1.0
+pydub>=0.25.1
+torch>=2.0.0
+torchaudio>=2.0.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+tqdm>=4.65.0
