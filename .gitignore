@@ -1,0 +1,44 @@
+# Audio files (stored on HuggingFace: baws004/nvda-audio)
+data/earnings-calls/
+*.mp3
+
+# Output directories (generated from processing)
+data/earnings-calls-split/
+data/speaker-segments/
+
+# HuggingFace cache
+data/.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+*.csv
+*.parquet
+
+# Logs
+*.log
+logs/
