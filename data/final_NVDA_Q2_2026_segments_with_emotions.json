@@ -5,7 +5,10 @@
     "text": " Good afternoon. My name is Sarah and I will be your conference operator today. At this time, I would like to welcome everyone to NVIDIA's second quarter fiscal 2026 financial results conference call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. And if you would like to ask a question during this time, simply press star followed by the number one on your telephone keypad.",
     "speaker": "Operator",
     "speaker_confidence": 86.12836438923395,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0000.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0000.wav",
+    "valence": -0.0092642642557621,
+    "arousal": -0.0014643617905676365,
+    "dominance": -0.00644751638174057
   },
   {
     "start": 27.554,
@@ -13,7 +16,10 @@
     "text": " If you would like to withdraw your question, press star 1 again. Thank you. So Siahari, you may begin your conference. Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the second quarter of fiscal 2026. With me today from NVIDIA are Jensen Wong, President and Chief Executive Officer, and Collette Kress, Executive Vice President and Chief Financial Officer.",
     "speaker": "Toshiya Hari",
     "speaker_confidence": 81.19122257053291,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0001.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0001.wav",
+    "valence": -0.006041422486305237,
+    "arousal": 0.0023432704620063305,
+    "dominance": -0.014517698436975479
   },
   {
     "start": 55.043,
@@ -21,7 +27,10 @@
     "text": " I'd like to remind you that our call is being webcast live on NVIDIA's investor relations website. The webcast will be available for replay until the conference call to discuss our financial results for the third quarter of fiscal 2026. The content of today's call is NVIDIA's property. It can't be reproduced or transcribed without our prior written consent. During this call, we may make forward-looking statements based on current expectations.",
     "speaker": "Toshiya Hari",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0002.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0002.wav",
+    "valence": -9.65222716331482e-06,
+    "arousal": -0.0004638315876945853,
+    "dominance": -0.009220657870173454
   },
   {
     "start": 81.335,
@@ -29,7 +38,10 @@
     "text": " These are subject to a number of significant risks and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results in business, please refer to disclosure in today's earnings release, our most recent forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission. All our statements are made as of today, August 27, 2025, based on information currently available to us.",
     "speaker": "Toshiya Hari",
     "speaker_confidence": 98.74476987447699,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0003.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0003.wav",
+    "valence": -0.00010669836774468422,
+    "arousal": -0.0038908699061721563,
+    "dominance": -0.007517688907682896
   },
   {
     "start": 111.558,
@@ -37,7 +49,10 @@
     "text": " Except as required by law, we assume no obligation to update any such statements. During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website. With that, let me turn the call over to Collette. Thank you, Tachia. We delivered another record quarter while navigating what continues to be a dynamic external environment.",
     "speaker": "Toshiya Hari",
     "speaker_confidence": 84.3710292249047,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0004.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0004.wav",
+    "valence": -0.0008366331458091736,
+    "arousal": 0.0010575985070317984,
+    "dominance": -0.010261718183755875
   },
   {
     "start": 141.697,
@@ -45,7 +60,10 @@
     "text": " Total revenue was $46.7 billion, exceeded our outlook as we grew sequentially across all market platforms. Data Center revenue grew 56% year over year. Data Center revenue also grew sequentially despite the $4 billion decline in H-20 revenue.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.1701244813278,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0005.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0005.wav",
+    "valence": -0.004284013994038105,
+    "arousal": -0.006134243682026863,
+    "dominance": -0.0027303295210003853
   },
   {
     "start": 162.335,
@@ -53,7 +71,10 @@
     "text": " NVIDIA's Blackwell platform reached record levels, growing sequentially by 17%. We began production shipments of GB300 and Q2. Our full-stack AI solutions for cloud service providers, neoclouds, enterprises, and sovereigns are all contributing to our growth.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.1701244813278,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0006.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0006.wav",
+    "valence": 0.0005916017107665539,
+    "arousal": 0.0007452892605215311,
+    "dominance": -0.004198884591460228
   },
   {
     "start": 185.858,
@@ -61,7 +82,10 @@
     "text": " We are at the beginning of an industrial revolution that will transform every industry. We see three to four trillion dollars in AI infrastructure spend by the end of the decade. The scale and scope of these build-outs present significant long-term growth opportunities for NVIDIA.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 93.84057971014492,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0007.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0007.wav",
+    "valence": -0.002124781720340252,
+    "arousal": -0.0029382375068962574,
+    "dominance": -0.010905303061008453
   },
   {
     "start": 207.948,
@@ -69,7 +93,10 @@
     "text": " The GB200 NVL system is seeing widespread adoption with deployments at CSPs and consumer Internet companies. Lighthouse model builders, including OpenAI, Meta, and Mistral, are using the GB200 NVL-72 at data center scale for both training, next generation models, and serving inference models in production.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0008.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0008.wav",
+    "valence": -0.004921118728816509,
+    "arousal": -0.0022658645175397396,
+    "dominance": -0.0020661833696067333
   },
   {
     "start": 231.674,
@@ -77,7 +104,10 @@
     "text": " The new Blackwell Ultra platform has also had a strong quarter, generating tens of billions in revenue. The transition to the GB300 has been seamless for major cloud service providers due to its shared architecture, software, and physical footprint with the GB200, enabling them to build and deploy GB300 racks with ease.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0009.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0009.wav",
+    "valence": 0.0003553321585059166,
+    "arousal": -0.0003302569966763258,
+    "dominance": -0.0023713919799774885
   },
   {
     "start": 258.016,
@@ -85,7 +115,10 @@
     "text": " The transition to the new GB300 rack-based architecture has been seamless. Factory builds in late July and early August were successfully converted to support the GB300 ramp, and today, full production is underway. The current run rate is back at full speed, producing approximately 1,000 racks per week.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0010.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0010.wav",
+    "valence": -0.0019733975641429424,
+    "arousal": -0.0022601012606173754,
+    "dominance": -0.005169868469238281
   },
   {
     "start": 281.219,
@@ -93,7 +126,10 @@
     "text": " This output is expected to accelerate even further throughout the third quarter as additional capacity comes online. We expect widespread market availability in the second half of the year as CoreWeave prepares to bring their GB300 instance to market as they are already seeing 10x more inference performance on reasoning models compared to H100.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0011.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0011.wav",
+    "valence": -0.001123742200434208,
+    "arousal": -0.004104405641555786,
+    "dominance": -0.007796874735504389
   },
   {
     "start": 307.409,
@@ -101,7 +137,10 @@
     "text": " Compared to the previous hopper generation, DV300 and VL72 AI factories promise a 10x improvement in token per watt energy efficiency, which translates to revenues as data centers are power limited. The chips of the Rubin platform are in fab.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.42931937172776,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0012.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0012.wav",
+    "valence": 0.002057529054582119,
+    "arousal": -0.00517847528681159,
+    "dominance": -0.002248220844194293
   },
   {
     "start": 328.739,
@@ -109,7 +148,10 @@
     "text": " The Vera CPU, Rubin GPU, CX-9 SuperNIC, NVLink 144 scale up switch, Spectrum X scale out and scale across switch, and the silicon photonics processor.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.42931937172776,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0013.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0013.wav",
+    "valence": 0.003350641345605254,
+    "arousal": -0.0053913528099656105,
+    "dominance": -0.005935652647167444
   },
   {
     "start": 346.643,
@@ -117,7 +159,10 @@
     "text": " Rubin remains on schedule for volume production next year. Rubin will be our third-generation NVLink rack-scale AI supercomputer with a mature and full-scale supply chain. This keeps us on track with our pace of an annual product cadence and continuous innovation across compute, networking, systems and software.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.63369963369964,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0014.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0014.wav",
+    "valence": -0.004431208595633507,
+    "arousal": -0.004214723128825426,
+    "dominance": -0.009174304082989693
   },
   {
     "start": 371.855,
@@ -125,7 +170,10 @@
     "text": " In late July, the U.S. government began reviewing licenses for sales of H20 to China customers. While a select number of our China-based customers have received licenses over the past few weeks, we have not shipped any H20 based on those licenses.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.63369963369964,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0015.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0015.wav",
+    "valence": -0.0069311135448515415,
+    "arousal": 0.002332589589059353,
+    "dominance": -0.005879356991499662
   },
   {
     "start": 390.974,
@@ -133,7 +181,10 @@
     "text": " USG officials have expressed an expectation that the USG will receive 15 percent of the revenue generated from licensed H20 sales. But to date, the USG has not published a regulation codifying such requirement. We have not included H20 in our Q3 outlook as we continue to work through geopolitical issues.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.34219269102991,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0016.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0016.wav",
+    "valence": -0.0034578077029436827,
+    "arousal": 0.0020275244023650885,
+    "dominance": -0.002357977442443371
   },
   {
     "start": 418.379,
@@ -141,7 +192,10 @@
     "text": " If geopolitical issues reside, we should ship two to five billion dollars in H20 revenue in Q3. And if we had more orders, we can bill more. We continue to advocate for the U.S. government to approve Blackwell for China. Our products are designed and sold for beneficial commercial use, and every license sale we make will benefit the U.S. economy, the U.S. leadership,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 96.05633802816902,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0017.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0017.wav",
+    "valence": -0.002078672870993614,
+    "arousal": -0.0024615093134343624,
+    "dominance": 0.0007039578631520271
   },
   {
     "start": 447.269,
@@ -149,7 +203,10 @@
     "text": " In highly competitive markets, we want to win the support of every developer. America's AI technology stock can be the world's standard if we race and compete globally. Notably in the quarter was an increase in Hopper 100 and H200 shipments.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.57446808510639,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0018.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0018.wav",
+    "valence": -0.0018164440989494324,
+    "arousal": -0.0005075631197541952,
+    "dominance": -0.0060613867826759815
   },
   {
     "start": 467.097,
@@ -157,7 +214,10 @@
     "text": " We also sold approximately 650 million of H20 in Q2 to an unrestricted customer outside of China. The sequential increase in hopper demand indicates the breadth of data center workloads that run on accelerated computing and the power of CUDA libraries and full stack optimizations, which continuously enhance the performance and economic value of our platform.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0019.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0019.wav",
+    "valence": -0.00391088891774416,
+    "arousal": -0.0014132644282653928,
+    "dominance": -0.005955035798251629
   },
   {
     "start": 492.815,
@@ -165,7 +225,10 @@
     "text": " As we continue to deliver both Hopper and Blackwell GPUs, we are focusing on meeting the soaring global demand. This growth is fueled by capital expenditures from the cloud to enterprises, which are on track to invest $600 billion in data center infrastructure and compute this calendar year alone, nearly doubling in two years.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0020.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0020.wav",
+    "valence": -0.0009343433193862438,
+    "arousal": -0.003903559409081936,
+    "dominance": -0.0035466719418764114
   },
   {
     "start": 518.212,
@@ -173,7 +236,10 @@
     "text": " We expect annual AI infrastructure investments to continue growing, driven by the several factors. Reasoning, agentic AI requiring orders of magnitude more training and inference compute global buildouts for sovereign AI, enterprise AI adoption, and the arrival of physical AI and robotics.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.64788732394366,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0021.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0021.wav",
+    "valence": -0.0025199493393301964,
+    "arousal": -0.0016185458516702056,
+    "dominance": -0.001748400740325451
   },
   {
     "start": 542.09,
@@ -181,7 +247,10 @@
     "text": " Blackwell has set the benchmark as it is the new standard for AI inference performance. The market for AI inference is expanding rapidly with reasoning and agentic AI gaining traction across industries. Blackwell's rack scale NVLink and CUDA full stack architecture addresses this by redefining the economics of inference.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0022.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0022.wav",
+    "valence": -0.000287618488073349,
+    "arousal": -0.0007000276818871498,
+    "dominance": -0.005573817063122988
   },
   {
     "start": 568.212,
@@ -189,7 +258,10 @@
     "text": " New NVFP4 4-bit precision and NVLink 72 on the GB300 platform delivers a 50x increase in energy efficiency per token compared to Hopper, enabling companies to monetize their compute at unprecedented scale. For instance, a 3 million investment in GB200 infrastructure can generate 30 million in token revenue, a 10x return.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0023.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0023.wav",
+    "valence": -0.004044435918331146,
+    "arousal": -0.003998647443950176,
+    "dominance": -0.0005499063991010189
   },
   {
     "start": 598.807,
@@ -197,7 +269,10 @@
     "text": " NVIDIA's software innovation, combined with the strength of our developer ecosystem, has already improved Blackwell's performance by more than 2x since its launch. Advances in CUDA, TensorT-LLM, and Dynamo are unlocking maximum efficiency. CUDA library contributions from the open source community, along with NVIDIA's open libraries and frameworks, are now integrated into millions of workflows.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.73890339425587,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0024.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0024.wav",
+    "valence": -0.0058962698094546795,
+    "arousal": -0.004206384532153606,
+    "dominance": -0.005832681432366371
   },
   {
     "start": 627.477,
@@ -205,7 +280,10 @@
     "text": " This powerful flywheel of collaborative innovation between NVIDIA and global community contribution strengthens NVIDIA's performance leadership. NVIDIA is a top contributor to open AI models, data, and software. Blackwell has introduced a groundbreaking numerical approach to large language model pre-training.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.66996699669967,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0025.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0025.wav",
+    "valence": -0.003940137103199959,
+    "arousal": -0.0048036896623671055,
+    "dominance": -0.00770274642854929
   },
   {
     "start": 653.465,
@@ -213,7 +291,10 @@
     "text": " Using NVFP4, computations on the GB300 can now achieve 7x faster training than the H100, which uses FP8. This innovation delivers the accuracy of 16-bit precision with the speed and efficiency of 4-bit.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.48979591836735,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0026.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0026.wav",
+    "valence": -0.005160314030945301,
+    "arousal": -0.008569521829485893,
+    "dominance": -0.0003728731535375118
   },
   {
     "start": 675.098,
@@ -221,7 +302,10 @@
     "text": " setting a new standard for AI factor efficiency and scalability. The AI industry is quickly adopting this revolutionary technology with major players such as AWS, Google Cloud, Microsoft Azure, and OpenAI, as well as Kokir, Mistral, Kimi AI, Perplexity, Reflection, and Runway already embracing it.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.60627177700349,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0027.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0027.wav",
+    "valence": 0.0018193256109952927,
+    "arousal": -0.007772327866405249,
+    "dominance": -0.006143508478999138
   },
   {
     "start": 703.178,
@@ -229,7 +313,10 @@
     "text": " NVIDIA's performance leadership was further validated in the latest MLPerth training benchmarks, where the GB200 delivered a clean sweep. Be on the lookout for the upcoming MLPerf inference results in September, which will include benchmarks based on the Blackwell Ultra.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.44852941176471,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0028.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0028.wav",
+    "valence": -0.006711979396641254,
+    "arousal": -0.003385022981092334,
+    "dominance": -0.004177004098892212
   },
   {
     "start": 724.39,
@@ -237,7 +324,10 @@
     "text": " NVIDIA RTX Pro servers are in full production for the world's system makers. These are air-cooled, PCIe-based systems integrated seamlessly into standard IT environments and run traditional enterprise IT applications, as well as the most advanced agentic and physical AI applications.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.44852941176471,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0029.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0029.wav",
+    "valence": -0.0004480215720832348,
+    "arousal": 0.0029187314212322235,
+    "dominance": -0.0025371089577674866
   },
   {
     "start": 747.509,
@@ -245,7 +335,10 @@
     "text": " Nearly 90 companies, including many global leaders, are already adopting RTX Pro servers. Hitachi uses them for real-time simulation and digital twins, Lilly for drug discovery, Hyundai for factory design and AV validation, and Disney for immersive storytelling. As enterprises modernize data centers, RTX Pro servers are poised to become a multi-billion dollar product line.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.72527472527473,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0030.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0030.wav",
+    "valence": -0.004093918018043041,
+    "arousal": -0.006336987484246492,
+    "dominance": -0.006278850603848696
   },
   {
     "start": 776.99,
@@ -253,7 +346,10 @@
     "text": " Sovereign AI is one on the rise as the nation's ability to develop its own AI using domestic infrastructure, data and talent presents a significant opportunity for NVIDIA. NVIDIA is at the forefront of landmark initiatives across the UK and Europe.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.8021978021978,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0031.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0031.wav",
+    "valence": -0.009648331440985203,
+    "arousal": -0.0065758246928453445,
+    "dominance": -0.010370297357439995
   },
   {
     "start": 795.367,
@@ -261,7 +357,10 @@
     "text": " The European Union plans to invest 20 billion euros to establish 20 AI factories across France, Germany, Italy, and Spain, including five gigafactories to increase its AI compute infrastructure by tenfold. In the UK,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.8021978021978,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0032.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0032.wav",
+    "valence": -0.0011387187987565994,
+    "arousal": -4.3418724089860916e-05,
+    "dominance": -0.00018646800890564919
   },
   {
     "start": 815.296,
@@ -269,7 +368,10 @@
     "text": " The unbarred AI supercomputer powered by NVIDIA was unveiled at the country's most powerful AI system, delivering 21 exaplots of AI performance to accelerate breakthroughs in fields of drug discovery and climate modeling. We are on track to achieve over 20 billion in sovereign AI revenue this year, more than double than that of last year.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.01492537313433,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0033.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0033.wav",
+    "valence": -0.0025842804461717606,
+    "arousal": 0.005041465163230896,
+    "dominance": -0.0021458198316395283
   },
   {
     "start": 844.0,
@@ -277,7 +379,10 @@
     "text": " Networking delivered record revenue of $7.3 billion, and escalating demands of AI compute clusters necessitate high-efficiency and low-latency networking. This represents a 46% sequential and 98% year-on-year increase, with strong demand across SpectrumX Ethernet, InfiniBand, and NBLink.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.15966386554622,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0034.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0034.wav",
+    "valence": -0.0029157218523323536,
+    "arousal": -0.003559174481779337,
+    "dominance": -1.3059936463832855e-05
   },
   {
     "start": 869.482,
@@ -285,7 +390,10 @@
     "text": " Our SpectrumX enhanced Ethernet solutions provide the highest throughput and lowest latency network for Ethernet AI workloads. SpectrumX Ethernet delivered double-digit sequential and year-over-year growth",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.15966386554622,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0035.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0035.wav",
+    "valence": 0.003942605573683977,
+    "arousal": -0.0022106687538325787,
+    "dominance": -0.008231770247220993
   },
   {
     "start": 886.036,
@@ -293,7 +401,10 @@
     "text": " with annualized revenue exceeding $10 billion. At Hotchips, we introduced Spectrum XGS Ethernet, a technology designed to unify disparate data centers into big-scale AI super factories, where Weave is an initial adopter of the solution, which is projected to double GPU-to-GPU communication speed.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.15966386554622,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0036.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0036.wav",
+    "valence": -0.001996678300201893,
+    "arousal": -0.0072289095260202885,
+    "dominance": -0.001073723193258047
   },
   {
     "start": 913.694,
@@ -301,7 +412,10 @@
     "text": " Infiniband revenue nearly doubled sequentially, fueled by the adoption of XDR technology, which provides double the bandwidth improvement over its predecessor, especially valuable for the model builders.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.35728952772074,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0037.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0037.wav",
+    "valence": -0.0059318458661437035,
+    "arousal": -0.009184053167700768,
+    "dominance": -0.005707896314561367
   },
   {
     "start": 928.848,
@@ -309,7 +423,10 @@
     "text": " The world's fastest switch, NVLink, with 14x the bandwidth of PCIe Gen5, delivered strong growth as customers deployed Brace Blackpool NVLink RackScale systems. The positive reception to NVLink Fusion, which allows semi-custom AI infrastructure, has been widespread.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.62700228832952,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0038.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0038.wav",
+    "valence": -0.004372173920273781,
+    "arousal": -0.0028595412150025368,
+    "dominance": -0.0024901805445551872
   },
   {
     "start": 951.292,
@@ -317,7 +434,10 @@
     "text": " Japan's upcoming Fugaku Next will integrate Fujitsu's CPUs with our architecture via NVLink Fusion. It will run a range of workloads including AI, supercomputing, and quantum computing.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.62700228832952,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0039.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0039.wav",
+    "valence": -0.000790795311331749,
+    "arousal": -0.005949429702013731,
+    "dominance": -0.002799450885504484
   },
   {
     "start": 969.162,
@@ -325,7 +445,10 @@
     "text": " Fugaku Next joins a rapidly expanding list of leading quantum supercomputing and research centers running on NVIDIA's CUDA-Q quantum platform, including ULIC, AIST, NNF, and NERSC, supported by over 300 ecosystem partners, including AWS,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.47292418772562,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0040.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0040.wav",
+    "valence": -0.003919609356671572,
+    "arousal": -0.0009644469246268272,
+    "dominance": 0.0009138048044405878
   },
   {
     "start": 993.833,
@@ -333,7 +456,10 @@
     "text": " Google Quantum AI, Quantinium, QERA, and SciQuantum.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.47292418772562,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0041.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0041.wav",
+    "valence": 0.004042479209601879,
+    "arousal": -0.001720452681183815,
+    "dominance": -0.010597391054034233
   },
   {
     "start": 1002.44,
@@ -341,7 +467,10 @@
     "text": " Judson Thor, our new robotics computing platform is now available. Thor delivers an order of magnitude greater AI performance and energy efficiency than NVIDIA AGX Auron. It runs the latest generative and reasoning AI models at the edge in real time, enabling state of the art robotics. Adoption of NVIDIA's robotics full stack platform is growing at rapid rate.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.74647887323944,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0042.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0042.wav",
+    "valence": -0.0011424338445067406,
+    "arousal": -0.004667436704039574,
+    "dominance": -0.004663266707211733
   },
   {
     "start": 1028.562,
@@ -349,7 +478,10 @@
     "text": " over 2 million developers, and 1,000-plus hardware software applications and sensor partners taking our platform to market. Leading enterprises across industries have adopted Thor, including Agility Robotics, Amazon Robotics, Boston Dynamics, Caterpillar, Figure, Hexagon, Medtronic, and Meta.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.74647887323944,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0043.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0043.wav",
+    "valence": -0.0009201886132359505,
+    "arousal": 0.0005374808679334819,
+    "dominance": -0.002776465145871043
   },
   {
     "start": 1051.495,
@@ -357,7 +489,10 @@
     "text": " Robotic applications require exponentially more compute on the device and in infrastructure representing a significant long-term demand driver for our data center platform. NVIDIA Omniverse with Cosmos is our data center physical AI digital platform built for development of robot and robotic systems. This quarter, we announced a major expansion of our partnership with Siemens to enable AI, automatic,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0044.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0044.wav",
+    "valence": -4.959292709827423e-05,
+    "arousal": -0.0028679771348834038,
+    "dominance": -0.0052723027765750885
   },
   {
     "start": 1081.212,
@@ -365,7 +500,10 @@
     "text": " leading European robotics companies, including Agile Robots, Neuro Robotics, and Universal Robots, are building their latest innovations with the Omniverse platform. Transitioning to a quick summary of our revenue by geography.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.74055415617129,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0045.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0045.wav",
+    "valence": -0.00010397285223007202,
+    "arousal": 0.005482038017362356,
+    "dominance": -0.006551830563694239
   },
   {
     "start": 1099.96,
@@ -373,7 +511,10 @@
     "text": " China declined on a sequential basis to low single digits percentage of data center revenue. Note, our Q3 outlook does not include H20 shipments to China customers. Singapore revenue represented 22% of second quarters billed revenue as customers have centralized their invoicing in Singapore. Over 99% of data center compute revenue billed to Singapore was for U.S. based customers.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.19571045576407,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0046.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0046.wav",
+    "valence": -0.004246611148118973,
+    "arousal": -0.0023998343385756016,
+    "dominance": -0.00017913337796926498
   },
   {
     "start": 1129.745,
@@ -381,7 +522,10 @@
     "text": " Our gaming revenue was a record, $4.3 billion, a 14% sequential increase and a 49% jump year on year. This was driven by the ramp of Blackwell GeForce GPUs as strong sales continued as we increased supply availability.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.69646182495345,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0047.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0047.wav",
+    "valence": -0.006502797827124596,
+    "arousal": -0.0036871428601443768,
+    "dominance": -0.00028827786445617676
   },
   {
     "start": 1147.649,
@@ -389,7 +533,10 @@
     "text": " This quarter, we shipped GeForce RTX 5060 desktop GPU. It brings double the performance, along with advanced ray tracing, neural rendering, and AI-powered DLSS 4 gameplay to millions of gamers worldwide. Blackwell is coming to GeForce Now in September. This is GeForce Now's most significant upgrade, offering RTX 5080 class performance.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.69646182495345,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0048.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0048.wav",
+    "valence": -0.002200494520366192,
+    "arousal": -0.0018841323908418417,
+    "dominance": -0.000805574469268322
   },
   {
     "start": 1174.244,
@@ -397,7 +544,10 @@
     "text": " minimal latency, and 5K resolution at 120 frames per second. We are also doubling the GeForce Now catalog to over 4,500 titles, the largest library of any cloud gaming service. For AI enthusiasts,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.69646182495345,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0049.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0049.wav",
+    "valence": 0.000913750845938921,
+    "arousal": 0.0027205932419747114,
+    "dominance": -0.0034316852688789368
   },
   {
     "start": 1192.722,
@@ -405,7 +555,10 @@
     "text": " On-device AI performs the best RTX GPUs. We partnered with OpenAI to optimize their open source GPT models for high quality, fast and efficient inference on millions of RTX enabled window devices. With the RTX platform stack, window developers can create AI applications designed to run on the world's largest AI PC user base.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.6078431372549,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0050.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0050.wav",
+    "valence": -0.0042109498754143715,
+    "arousal": 0.00012184318620711565,
+    "dominance": 0.004038587678223848
   },
   {
     "start": 1219.975,
@@ -413,7 +566,10 @@
     "text": " Professional visualization revenue reached $601 million, a 32% year-on-year increase. Growth was driven by an adoption of the high-end RTX workstation GPUs and AI-powered workload like design, simulation, and prototyping. Key customers are leveraging our solutions to accelerate their operations. Activision Blizzard uses RTX workstations to enhance creative workflows.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.77324263038548,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0051.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0051.wav",
+    "valence": -0.008349424228072166,
+    "arousal": -0.005331861320883036,
+    "dominance": 0.0005053041968494654
   },
   {
     "start": 1245.254,
@@ -421,7 +577,10 @@
     "text": " while Robotics Innovator Figure AI powers its humanoid robots with RTX embedded GPUs.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.77324263038548,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0052.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0052.wav",
+    "valence": -0.0020833751186728477,
+    "arousal": -0.0023979111574590206,
+    "dominance": 0.0007048394763842225
   },
   {
     "start": 1254.805,
@@ -429,7 +588,10 @@
     "text": " Automotive revenue, which includes only in-car compute revenue, was $586 million, up 69% year-on-year, primarily driven by self-driving solutions. We have begun shipments of NVIDIA Thor SOC, the successor to Orin. Thor's arrival coincides with the industry's accelerating shift to vision, language, model architecture, generative AI, and higher levels of autonomy.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.70930232558139,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0053.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0053.wav",
+    "valence": -0.003695365972816944,
+    "arousal": -0.006316156126558781,
+    "dominance": -0.003131438046693802
   },
   {
     "start": 1283.56,
@@ -437,7 +599,10 @@
     "text": " Thor is the most successful robotics and AV computer we've ever created. Thor will power. Our full stack drive AV software platform is now in production, opening up billions to new revenue opportunities for NVIDIA while improving vehicle safety and autonomy. Now moving to the rest of our P&L.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0054.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0054.wav",
+    "valence": -0.001852691639214754,
+    "arousal": 0.005397821310907602,
+    "dominance": -0.01066353265196085
   },
   {
     "start": 1306.983,
@@ -445,7 +610,10 @@
     "text": " Gap gross margin was 72.4 percent and non-gap gross margin was 72.7 percent. These figures include a 180 million or 40 basis point benefit from releasing previously reserved H20 inventory. Excluding this benefit, non-gap gross margins would have been 72.3 percent, still exceeding our outlook.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 91.51943462897526,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0055.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0055.wav",
+    "valence": -0.003948396071791649,
+    "arousal": -0.003501489059999585,
+    "dominance": -0.0021890844218432903
   },
   {
     "start": 1331.873,
@@ -453,7 +621,10 @@
     "text": " Gap operating expenses rose 8% and 6% on a non-gap basis sequentially. This increase was driven by higher compute and infrastructure costs as well as higher compensation and benefit costs. To support the ramp of Blackwell and Blackwell Ultra, inventory increased sequentially from 11 billion to 15 billion in Q2.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.672131147541,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0056.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0056.wav",
+    "valence": -0.0019383933395147324,
+    "arousal": -0.000872036733198911,
+    "dominance": -0.0033601727336645126
   },
   {
     "start": 1356.95,
@@ -461,7 +632,10 @@
     "text": " While we prioritize funding our growth and strategic initiatives in Q2, we returned $10 billion to shareholders through share repurchases and cash dividends. Our board of directors recently approved a $60 billion share repurchase authorization to add to our remaining $14.7 billion of authorization at the end of Q2. Okay, let me turn it to the outlook for the third quarter.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0057.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0057.wav",
+    "valence": 0.0008051013574004173,
+    "arousal": -0.005850004963576794,
+    "dominance": -0.004620247986167669
   },
   {
     "start": 1384.692,
@@ -469,7 +643,10 @@
     "text": " Total revenue is expected to be $54 billion plus or minus 2%. This represents over $7 billion in sequential growth. Again, we do not assume any H20 shipments to China customers in our outlook.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0058.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0058.wav",
+    "valence": -0.004952210932970047,
+    "arousal": -0.0029669259674847126,
+    "dominance": -0.002621474675834179
   },
   {
     "start": 1399.863,
@@ -477,7 +654,10 @@
     "text": " Gap and non-gap gross margins are expected to be 73.3%, 73.5%, respectively, plus or minus 50 base of points. We continue to expect to exit the year with non-gap gross margins in the mid-70s. Gap and non-gap operating expenses are expected to be approximately $5.9 billion and $4.2 billion, respectively.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0059.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0059.wav",
+    "valence": -0.0047716726548969746,
+    "arousal": -0.005479999352246523,
+    "dominance": -0.0016058902256190777
   },
   {
     "start": 1426.745,
@@ -485,7 +665,10 @@
     "text": " For the full year, we expect operating expenses to grow in the high 30s range year over year, up from our prior expectations of the mid 30s. We are accelerating investments in the business to address the magnitude of growth opportunities that lie ahead.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.50467289719627,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0060.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0060.wav",
+    "valence": -0.002775240922346711,
+    "arousal": -0.0021351648028939962,
+    "dominance": -0.006493306718766689
   },
   {
     "start": 1442.759,
@@ -493,7 +676,10 @@
     "text": " Gap and non-gap other income and expenses are expected to be an income of approximately $500 million, excluding gains and losses from non-marketable and public held equity securities. Gap and non-gap tax rates are expected to be 16.5%, plus or minus 1%, excluding any discrete items. Further financial data are included in the CFO commentary and other information available on our website.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.50467289719627,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0061.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0061.wav",
+    "valence": -0.0014456156641244888,
+    "arousal": -0.001108243828639388,
+    "dominance": 0.001500554382801056
   },
   {
     "start": 1470.502,
@@ -501,7 +687,10 @@
     "text": " In closing, let me highlight upcoming events for the financial community. We will be at the Goldman Sachs Technology Conference on September 8th in San Francisco. Our annual NDR will commence the first part of October.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.49238578680203,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0062.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0062.wav",
+    "valence": -0.004534217994660139,
+    "arousal": -0.0030842164997011423,
+    "dominance": -0.009347183629870415
   },
   {
     "start": 1484.052,
@@ -509,7 +698,10 @@
     "text": " GTC data center begins on October 27th with Jensen's keynote scheduled for the 28th. We look forward to seeing you at these events. Our earnings call to discuss the results of our third quarter of fiscal 2026 is scheduled for November 19th. We will now open the call for questions. Operator, would you please pull for questions? Thank you.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 96.07250755287009,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0063.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0063.wav",
+    "valence": -0.0016493159346282482,
+    "arousal": 0.0024405254516750574,
+    "dominance": -0.011983834207057953
   },
   {
     "start": 1513.465,
@@ -517,7 +709,10 @@
     "text": " At this time, I would like to remind everyone in order to ask a question, press star, send the number one on your telephone keypad. We'll pause for just a moment to compile the Q&A roster. As a reminder, please limit yourself to one question. Thank you. Your first question comes from CJ Muse with Cantor Fitzgerald. Your line is open.",
     "speaker": "Operator",
     "speaker_confidence": 83.13253012048193,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0064.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0064.wav",
+    "valence": -0.006171174813061953,
+    "arousal": -0.00018361251568421721,
+    "dominance": -0.009911558590829372
   },
   {
     "start": 1535.555,
@@ -525,7 +720,10 @@
     "text": " Yeah, good afternoon. Thank you for taking the question. I guess with wafer in to rack out lead times of 12 months, you confirmed on the call today that Rubin is on track for ramp in the second half. And obviously many of these investments are multi-year projects contingent upon power, cooling, et cetera. I was hoping perhaps you could take a high level view and speak to your vision for growth into 2026. And as part of that, if you can kind of comment between networking data center would be very helpful. Thank you.",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 91.90325972660358,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0065.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0065.wav",
+    "valence": -0.003493518801406026,
+    "arousal": -0.0034143314696848392,
+    "dominance": -0.00953367818146944
   },
   {
     "start": 1567.533,
@@ -533,7 +731,10 @@
     "text": " Yeah, thanks, CJ. At the highest level of growth drivers would be the evolution, the introduction, if you will, of reasoning agentic AI. You know, where chatbots used to be one shot, you give it a prompt and it would generate the answer. Now the AI does research, it thinks and does a plan,",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 96.0431654676259,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0066.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0066.wav",
+    "valence": 0.004349619150161743,
+    "arousal": 0.003881688928231597,
+    "dominance": -0.01632239669561386
   },
   {
     "start": 1596.862,
@@ -541,7 +742,10 @@
     "text": " and it might use tools. And so it's called long thinking. And the longer it thinks, oftentimes it produces better answers. And the amount of computation necessary for one shot versus reasoning agentic AI models could be a hundred times, a thousand times, and potentially even more as the amount of research and basically reading and comprehension that it goes off to do.",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 90.60773480662984,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0067.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0067.wav",
+    "valence": 0.0021853484213352203,
+    "arousal": 0.0025171837769448757,
+    "dominance": -0.014861728064715862
   },
   {
     "start": 1625.735,
@@ -549,7 +753,10 @@
     "text": " And so the amount of computation that has resulted in agentic AI has grown tremendously. And of course, the effectiveness has also grown tremendously. Because of agentic AI, the amount of hallucination has dropped significantly. You can now use tools and perform tasks. Enterprises have been opened up.",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0068.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0068.wav",
+    "valence": -0.009672912769019604,
+    "arousal": 0.002125853206962347,
+    "dominance": -0.009402401745319366
   },
   {
     "start": 1648.178,
@@ -557,7 +764,10 @@
     "text": " As a result of agentic AI and vision language models, we now are seeing a breakthrough in physical AI and robotics, autonomous systems. So that the last year, AI has made tremendous progress and agentic systems, reasoning systems is completely revolutionary. Now we built the Blackwell MVLink 72 system, a rack scale computing system for this moment.",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 97.6608187134503,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0069.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0069.wav",
+    "valence": -0.0040684849955141544,
+    "arousal": 0.001134296297095716,
+    "dominance": -0.009519850835204124
   },
   {
     "start": 1677.102,
@@ -565,7 +775,10 @@
     "text": " We've been working on it for several years. This last year, we transitioned from NVLink 8, which is a node scale computing, each node is a computer, to now NVLink 72, where each rack is a computer. But this aggregation of NVLink 72 into a rack scale system was extremely hard to do. But the results are extraordinary. We're seeing orders of magnitude speed up.",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 98.9795918367347,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0070.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0070.wav",
+    "valence": -0.004395671654492617,
+    "arousal": -0.00518530560657382,
+    "dominance": -0.00579671747982502
   },
   {
     "start": 1705.199,
@@ -573,7 +786,10 @@
     "text": " and therefore energy efficiency and therefore cost-effectiveness of token generation because of NVLink 72. And so, over the next couple of years,",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 98.9795918367347,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0071.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0071.wav",
+    "valence": 0.0020301202312111855,
+    "arousal": -0.001758168451488018,
+    "dominance": -0.007379561197012663
   },
   {
     "start": 1719.172,
@@ -581,7 +797,10 @@
     "text": " You asked about longer term. Over the next five years, we're going to scale into with Blackwell, with Rubin, and follow-ons to scale into effectively a $3 to $4 trillion AI infrastructure opportunity. The last couple of years, you have seen that CapEx has grown in just the top four CSPs, has doubled and grown to about $600 billion.",
     "speaker": "Christopher James Muse",
     "speaker_confidence": 95.3125,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0072.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0072.wav",
+    "valence": 0.0003665678668767214,
+    "arousal": 0.004997513256967068,
+    "dominance": -0.01272670179605484
   },
   {
     "start": 1748.804,
@@ -589,7 +808,10 @@
     "text": " So we're in the beginning of this build out and the AI technology advances has really enabled AI to be able to adopt and solve problems to many different industries. Your next question comes from Vivek Arya with Bank of America Securities. Your line is open.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0073.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0073.wav",
+    "valence": 0.002837988082319498,
+    "arousal": 0.004322021268308163,
+    "dominance": -0.01592242904007435
   },
   {
     "start": 1773.526,
@@ -597,7 +819,10 @@
     "text": " Thanks for taking my questions. Colleague, just wanted to clarify the two to five billion in China, what needs to happen and what is the sustainable pace of that China business as you get into Q4. And then Jensen, for you on the competitive landscape, several of your large customers already have or are planning many ASIC projects. I think one of your, you know, ASIC competitors brought on signal that they could grow their AI business almost, you know, 55, 60% next year.",
     "speaker": "Vivek Arya",
     "speaker_confidence": 94.4356120826709,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0074.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0074.wav",
+    "valence": -0.0058580441400408745,
+    "arousal": 0.0010598981752991676,
+    "dominance": -0.0075384038500487804
   },
   {
     "start": 1801.808,
@@ -605,7 +830,10 @@
     "text": " Any scenario in which you see the market moving more towards AFIX and away from NVIDIA GPU? Just what are you hearing from your customers? How are they managing this split between the use of merchant silicon and AFIX? Thank you.",
     "speaker": "Vivek Arya",
     "speaker_confidence": 94.4356120826709,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0075.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0075.wav",
+    "valence": -0.007448611781001091,
+    "arousal": -0.008388339541852474,
+    "dominance": 0.0022534122690558434
   },
   {
     "start": 1818.042,
@@ -613,7 +841,10 @@
     "text": " Thanks Vivek. So let me first answer your question regarding what will it take for the H20s to be shipped. There is interest in our H20s. There is the initial set of license that we received. And then additionally, we do have a supply that we are ready. And that's why we communicated that somewhere in the range of about two to five billion this quarter, we could potentially ship.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.58713136729223,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0076.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0076.wav",
+    "valence": 0.007221921347081661,
+    "arousal": 0.008461860939860344,
+    "dominance": -0.008128924295306206
   },
   {
     "start": 1845.464,
@@ -621,7 +852,10 @@
     "text": " We're still waiting on several of the geopolitical issues going back and forth between the governments and the companies trying to determine their purchases and what they want to do. So it's still open at this time, and we're not exactly sure what that full amount will be that this quarter. However, if more interest arrives, more licenses arrives, again, we can also still build additional H20 and ship more as well.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.58713136729223,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0077.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0077.wav",
+    "valence": -0.0026063132099807262,
+    "arousal": 0.004601458087563515,
+    "dominance": -0.006338592618703842
   },
   {
     "start": 1875.974,
@@ -629,7 +863,10 @@
     "text": " NVIDIA builds very different things than ASICs, but let's talk about ASICs first. A lot of projects are started, many startup companies are created, very few products go into production. And the reason for that is it's really hard. Accelerated computing is unlike general purpose computing. You don't write software and just compile it into a processor. Accelerated computing is a full-stack co-design problem.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.48484848484848,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0078.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0078.wav",
+    "valence": -0.002559647662565112,
+    "arousal": 0.007031797431409359,
+    "dominance": -0.01367252692580223
   },
   {
     "start": 1904.797,
@@ -637,7 +874,10 @@
     "text": " And AI factories in the last several years has become so much more complex because of the scale of the problems have grown so significantly. It's really the ultimate, the most extreme computer science problem the world's ever seen, obviously. And so the stack is complicated. The models are changing incredibly fast from generative",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.76543209876543,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0079.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0079.wav",
+    "valence": -0.0037327997852116823,
+    "arousal": 0.003679223358631134,
+    "dominance": -0.01583804190158844
   },
   {
     "start": 1930.531,
@@ -645,7 +885,10 @@
     "text": " based on autoregressive, degenerative based on diffusion, to mixed models, to multimodality. The number of different models that are coming out that are either derivatives of transformers or evolutions of transformers is just daunting. One of the advantages that we have is that NVIDIA is available in every cloud. We're available from every computer company.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.86039886039886,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0080.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0080.wav",
+    "valence": -0.0025732386857271194,
+    "arousal": -0.004414128139615059,
+    "dominance": -0.01030372828245163
   },
   {
     "start": 1957.21,
@@ -653,7 +896,10 @@
     "text": " were available from the cloud to on-prem to edge to robotics on the same programming model. And so it's sensible that every framework in the world supports NVIDIA. When you're building a new model architecture, releasing it on NVIDIA is most sensible. And so the diversity of our platform, both in the ability to evolve into any architecture, the fact that we're everywhere,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0081.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0081.wav",
+    "valence": -0.0011719297617673874,
+    "arousal": -0.003119071712717414,
+    "dominance": -0.015066486783325672
   },
   {
     "start": 1986.59,
@@ -661,7 +907,10 @@
     "text": " And also, we accelerate the entire pipeline. You know, everything from data processing to pre-training to post-training with reinforcement learning, all the way out to inference. And so, when you build a data center with NVIDIA platform in it, the utility of it is best. The lifetime usefulness is much, much longer. And then I would just say that in addition to all of that,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 97.51381215469614,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0082.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0082.wav",
+    "valence": -0.0011349832639098167,
+    "arousal": 0.004677029326558113,
+    "dominance": -0.013874931260943413
   },
   {
     "start": 2016.762,
@@ -669,7 +918,10 @@
     "text": " It is just a really extremely complex systems problem anymore. You know, people talk about the chip itself. There's one ASIC, the GPU that many people talk about. But in order to build Blackwell, the platform, and Rubin, the platform, we had to build CPUs that connect fast memory, low, extremely energy efficient memory for large KV caching necessary for agentic AI.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 96.61016949152543,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0083.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0083.wav",
+    "valence": 0.0006014062091708183,
+    "arousal": 0.005546041764318943,
+    "dominance": -0.011398723348975182
   },
   {
     "start": 2045.551,
@@ -677,7 +929,10 @@
     "text": " to the GPU, to a SuperNIC, to a scale up switch we call NVLink, completely revolutionary. We're in our fifth generation now. To a scale out switch, whether it's quantum or spectrum X ethernet, to now scale across switches so that we can prepare for these AI super factories with multiple gigawatts of computing all connected together.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.76543209876543,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0084.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0084.wav",
+    "valence": 0.000739038921892643,
+    "arousal": -0.005360835697501898,
+    "dominance": -0.011615533381700516
   },
   {
     "start": 2075.521,
@@ -685,7 +940,10 @@
     "text": " We call that Spectrum XGS. We just announced that at Hot Chips this week. And so the complications, the complexity of everything that we do is really quite extraordinary. It's just done in a really, really extreme scale now. And then lastly, if I could just say one more thing, you know, we're in every cloud for a good reason.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 96.19047619047619,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0085.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0085.wav",
+    "valence": 0.0024983114562928677,
+    "arousal": 0.00304775289259851,
+    "dominance": -0.01612216606736183
   },
   {
     "start": 2098.876,
@@ -693,7 +951,10 @@
     "text": " Not only are we the most energy efficient, our perf per watt is the best of any computing platform. And in a world of power limited data centers, perf per watt drives directly to revenues. And you've heard me say before that in a lot of ways, the more you buy, the more you grow. And because our perf per dollar, the performance per dollar is so incredible,",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 99.71181556195965,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0086.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0086.wav",
+    "valence": -0.0002734842710196972,
+    "arousal": -0.004251418635249138,
+    "dominance": -0.014199264347553253
   },
   {
     "start": 2127.31,
@@ -701,7 +962,10 @@
     "text": " You also have extremely great margins. So the growth opportunity with NVIDIA's architecture and the gross margins opportunity with NVIDIA's architecture is absolutely the best. And so there's a lot of reasons why NVIDIA is chosen by every cloud and every startup and every computer company. We're really a holistic, full-stack solution for AI factories.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0087.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0087.wav",
+    "valence": 0.004333601798862219,
+    "arousal": 0.00711184972897172,
+    "dominance": -0.009420732036232948
   },
   {
     "start": 2159.39,
@@ -709,7 +973,10 @@
     "text": " Your next question comes from Ben Reitzes with Milius. Your line is open. Hey, thanks a lot. Jensen, I wanted to ask you about your three to four trillion in data center infrastructure spend by the end of the decade. Previously, you talked about something in the one billion range, which I believe was just for compute by 2028.",
     "speaker": "Operator",
     "speaker_confidence": 98.11320754716981,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0088.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0088.wav",
+    "valence": 0.000757320667617023,
+    "arousal": 0.00025723816361278296,
+    "dominance": -0.013236066326498985
   },
   {
     "start": 2183.251,
@@ -717,7 +984,10 @@
     "text": " If you take past comments, you know, three to four trillion would imply maybe two billion plus in compute spend. And just wanted to know if that was right, and that's what you're seeing by the end of the decade. And wondering what you think your share will be of that. Your share right now of total infrastructure, compute-wise, is very high. So wanted to see. And also, if there's any bottlenecks you're concerned about, like power, to get to the three to four trillion. Thanks a lot.",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 93.33333333333333,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0089.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0089.wav",
+    "valence": 0.004438676871359348,
+    "arousal": 0.010124193504452705,
+    "dominance": -0.004709807224571705
   },
   {
     "start": 2212.833,
@@ -725,7 +995,10 @@
     "text": " Yeah, thanks. As you know, the CapEx of just the top four hyperscalers has doubled in two years. As the AI revolution went into full steam, as the AI race is now on, the CapEx spend has doubled to $600 billion per year. There's five years between now and the end of the decade.",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 95.13108614232209,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0090.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0090.wav",
+    "valence": 0.005451189819723368,
+    "arousal": 0.006157493218779564,
+    "dominance": -0.007080778479576111
   },
   {
     "start": 2241.048,
@@ -733,7 +1006,10 @@
     "text": " and $600 billion only represents the top four hyperscalers. We still have the rest of the enterprise companies building on-prem. You have cloud service providers building around the world. United States represents about 60% of the world's compute. And over time, you would think that",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 98.54014598540147,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0091.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0091.wav",
+    "valence": 0.002138664945960045,
+    "arousal": 0.00861649215221405,
+    "dominance": -0.011468769982457161
   },
   {
     "start": 2267.845,
@@ -741,7 +1017,10 @@
     "text": " artificial intelligence would reflect GDP scale and growth. And so, and would be of course accelerating GDP growth. And so our contribution to that is a large part of the AI infrastructure. Out of a gigawatt AI factory, which can go anywhere from 50 to plus or minus 10%, let's say 50 to 60 billion,",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 96.89655172413794,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0092.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0092.wav",
+    "valence": 0.00466567650437355,
+    "arousal": 0.0014696631114929914,
+    "dominance": -0.01538022793829441
   },
   {
     "start": 2298.153,
@@ -749,7 +1028,10 @@
     "text": " We represent about 35 plus or minus of that, and 35 out of 50 or so billion dollars for a gigawatt data center. And of course, what you get for that is not a GPU. I think people were famous for building the GPU and inventing the GPU, but as you know, over the last decade, we've really transitioned to become an AI infrastructure company.",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 94.22492401215806,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0093.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0093.wav",
+    "valence": 0.0028741094283759594,
+    "arousal": 0.009239288046956062,
+    "dominance": -0.0125789949670434
   },
   {
     "start": 2327.06,
@@ -757,7 +1039,10 @@
     "text": " It takes six chips just to build, six different types of chips just to build a Rubin AI supercomputer. And just to scale that out to a gigawatt, you have hundreds of thousands of GPU compute nodes.",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 96.89119170984456,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0094.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0094.wav",
+    "valence": -0.0016004983335733414,
+    "arousal": 0.00841440074145794,
+    "dominance": -0.011341918259859085
   },
   {
     "start": 2347.208,
@@ -765,7 +1050,10 @@
     "text": " and a whole bunch of rats. And so we're really an AI infrastructure company, and we're hoping to continue to contribute to growing this industry, making AI more useful, and then very importantly, driving the performance per wide, because the world, as you mentioned, limiters, it will always likely be",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 98.27586206896551,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0095.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0095.wav",
+    "valence": 0.0015120413154363632,
+    "arousal": -0.0037432070821523666,
+    "dominance": -0.014358778484165668
   },
   {
     "start": 2373.145,
@@ -773,7 +1061,10 @@
     "text": " power limitations, or AI infrastructure, or AI building limitations. And so we need to squeeze as much out of that factory as possible. NVIDIA's performance per unit of energy used drives the revenue growth of that factory. It directly translates. If you have a 100 megawatt factory, per 100 megawatt drives your revenues. It's tokens per 100 megawatts of factory.",
     "speaker": "Benjamin Alexander Reitzes",
     "speaker_confidence": 94.3342776203966,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0096.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0096.wav",
+    "valence": -0.004660355392843485,
+    "arousal": -0.00675458088517189,
+    "dominance": -0.00560346944257617
   },
   {
     "start": 2400.955,
@@ -781,7 +1072,10 @@
     "text": " In our case also, the performance per dollar spent is so high that your gross margins are also the best. But anyhow, these are the limiters going forward. And three to four trillion dollars is fairly sensible for the next five years. Next question comes from Joe Moore of Morgan Stanley.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0097.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0097.wav",
+    "valence": 0.01349075511097908,
+    "arousal": 0.013536995276808739,
+    "dominance": -0.017619332298636436
   },
   {
     "start": 2430.942,
@@ -789,7 +1083,10 @@
     "text": " Your line is open. Great. Thank you. Congratulations on reopening the China opportunity. Can you talk about the long-term prospects there? You've talked about, I think, half of the AI software world being there. You know, how much can NVIDIA grow in that business and, you know, how important is it that you get the flatball architecture ultimately licensed there?",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 90.93701996927803,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0098.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0098.wav",
+    "valence": -0.0006934284465387464,
+    "arousal": 0.0048516918905079365,
+    "dominance": -0.01061912439763546
   },
   {
     "start": 2456.693,
@@ -797,7 +1094,10 @@
     "text": " The China market, I've estimated to be about $50 billion of opportunity for us this year. If we were able to address it with competitive products, and if it's $50 billion this year, you would expect it to grow, say 50% per year as the rest of the world's AI market is growing as well.",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0099.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0099.wav",
+    "valence": 0.006574239581823349,
+    "arousal": 0.007878202944993973,
+    "dominance": -0.01673319563269615
   },
   {
     "start": 2486.022,
@@ -805,7 +1105,10 @@
     "text": " It is the second largest computing market in the world, and it is also the home of AI researchers. About 50% of the world's AI researchers are in China. The vast majority of the leading open source models are created in China. And so it's fairly important, I think, for the American technology companies to be able to address that market.",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0100.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0100.wav",
+    "valence": -0.0024764910340309143,
+    "arousal": 0.0006140705663710833,
+    "dominance": -0.014348769560456276
   },
   {
     "start": 2513.174,
@@ -813,7 +1116,10 @@
     "text": " And open source, as you know, is created in one country, but it's used all over the world. The open source models that have come out of China are really excellent. DeepSeq, of course, gained global notoriety. Q1 is excellent. Kimi is excellent. There's a whole bunch of new models that are coming out. There are multi-model, there are great language models, and it's really fueled",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 96.41873278236915,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0101.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0101.wav",
+    "valence": -2.1244864910840988e-05,
+    "arousal": 0.004652461037039757,
+    "dominance": -0.021549906581640244
   },
   {
     "start": 2541.389,
@@ -821,7 +1127,10 @@
     "text": " the adoption of AI in enterprises around the world, because enterprises want to build their own custom proprietary software stacks. And so open source models, really important for enterprise. It's really important for SaaS, who also would like to build proprietary systems. It has been really incredible for robotics around the world.",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 98.08510638297872,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0102.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0102.wav",
+    "valence": -0.0027552256360650063,
+    "arousal": -0.0013373924884945154,
+    "dominance": -0.01576368883252144
   },
   {
     "start": 2565.014,
@@ -829,7 +1138,10 @@
     "text": " And so open source is really important. And it's important that the American companies are able to address it. It's going to be a very large market.",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 98.08510638297872,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0103.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0103.wav",
+    "valence": -0.0034180316142737865,
+    "arousal": 0.0005336073227226734,
+    "dominance": -0.012113191187381744
   },
   {
     "start": 2575.342,
@@ -837,7 +1149,10 @@
     "text": " We're talking to the administration about the importance of American companies to be able to address the Chinese market. And as you know, H20 has been approved for companies that are not on the entities list and many licenses have been approved. And so I think the opportunity for us to bring Blackwell",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0104.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0104.wav",
+    "valence": 0.004098538309335709,
+    "arousal": 0.006295518018305302,
+    "dominance": -0.015363916754722595
   },
   {
     "start": 2602.443,
@@ -845,7 +1160,10 @@
     "text": " to the China market is a real possibility. And so we just have to keep advocating the sensibility of and the importance of American tech companies to be able to lead and win the AI race and help make the American tech stack the global standard.",
     "speaker": "Joseph Lawrence Moore",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0105.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0105.wav",
+    "valence": 0.0017672693356871605,
+    "arousal": 0.0063820211216807365,
+    "dominance": -0.007745765615254641
   },
   {
     "start": 2628.92,
@@ -853,7 +1171,10 @@
     "text": " Your next question comes from the line of Aaron Rakers with Wells Fargo. Your line is open. Yeah, thank you for the question. You know, I want to go back to the spectrum XGF announcement this week and, you know, thinking about the use of that product now pushing over 10 billion of annualized revenue.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0106.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0106.wav",
+    "valence": -0.003820126410573721,
+    "arousal": 0.000797494372818619,
+    "dominance": -0.01746130734682083
   },
   {
     "start": 2649.659,
@@ -861,7 +1182,10 @@
     "text": " What is the opportunity set that you see for Spectrum XGS? Do we think about this as kind of the data center interconnect layer? Any thoughts on the sizing of this opportunity within that Ethernet portfolio? Thank you. We now offer three networking technologies. One is for scale up, one is for scale out, and one for scale across.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 96.90402476780186,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0107.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0107.wav",
+    "valence": 0.0014181863516569138,
+    "arousal": 0.0024656937457621098,
+    "dominance": -0.011048750951886177
   },
   {
     "start": 2679.275,
@@ -869,7 +1193,10 @@
     "text": " Scale up is so that we could build the largest possible virtual GPU, the virtual compute node. NVLink is revolutionary. NVLink 72 is what made it possible for Blackwell to deliver such an extraordinary generational jump over Hopper's NVLink 8.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0108.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0108.wav",
+    "valence": -0.004064356442540884,
+    "arousal": -0.010075341910123825,
+    "dominance": -0.010330460965633392
   },
   {
     "start": 2698.478,
@@ -877,7 +1204,10 @@
     "text": " Now, at a time when we have long thinking models, agentic AI reasoning systems, the NVLink basically amplifies the memory bandwidth, which is really critical for reasoning systems. And so NVLink 72 is fantastic. We then scale out with networking, which we have two. We have InfiniBand, which is",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 98.24561403508771,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0109.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0109.wav",
+    "valence": -0.0020165573805570602,
+    "arousal": 0.0016575362533330917,
+    "dominance": -0.017750440165400505
   },
   {
     "start": 2725.225,
@@ -885,7 +1215,10 @@
     "text": " unquestionably the lowest latency, the lowest jitter, the best scale-out network. It does require more expertise in managing those networks. And for supercomputing, for the leading model makers, quantum InfiniBand is the unambiguous choice. If you were to benchmark an AI factory, the ones with InfiniBand are the best performance.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 96.57320872274143,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0110.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0110.wav",
+    "valence": -0.005919373128563166,
+    "arousal": 0.0006166910752654076,
+    "dominance": -0.006723859813064337
   },
   {
     "start": 2753.39,
@@ -893,7 +1226,10 @@
     "text": " For those who would like to use Ethernet, because the whole data center is built with Ethernet, we have a new type of Ethernet called Spectrum Ethernet. Spectrum Ethernet is not off the shelf. It has a whole bunch of new technologies designed for low latency and low jitter and congestion control. And it has the ability to come closer, much, much closer to InfiniBand than anything that's out there. And that's why we call that Spectrum X Ethernet.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 99.08675799086758,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0111.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0111.wav",
+    "valence": -0.005688352044671774,
+    "arousal": -0.00271617341786623,
+    "dominance": -0.005448245443403721
   },
   {
     "start": 2783.36,
@@ -901,7 +1237,10 @@
     "text": " And then finally, we have Spectrum XGS, a gigascale for connecting multiple data centers, multiple AI factories into a super factory, a gigantic system. And you're going to see that networking obviously is very important in AI factories. In fact, choosing the right networking, the performance, the throughput,",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 94.64882943143813,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0112.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0112.wav",
+    "valence": -0.002250624354928732,
+    "arousal": -0.0009134906576946378,
+    "dominance": -0.010642144829034805
   },
   {
     "start": 2812.165,
@@ -909,7 +1248,10 @@
     "text": " going from 65% to 85% or 90%. That kind of step up, because of your networking capability, effectively makes networking free. Choosing the right networking, you're basically paying, you'll get a return on it like you can't believe because the AI factory, a gigawatt as I mentioned before, could be $50 billion.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 99.65986394557824,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0113.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0113.wav",
+    "valence": -0.0032791290432214737,
+    "arousal": -0.001642812043428421,
+    "dominance": -0.005023866426199675
   },
   {
     "start": 2841.967,
@@ -917,7 +1259,10 @@
     "text": " And so, the ability to improve the efficiency of that factory by tens of percents results in 10, 20 billion dollars worth of effective benefit. And so, the networking is a very important part of it. It's the reason why NVIDIA dedicates so much in networking.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 93.22709163346615,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0114.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0114.wav",
+    "valence": -0.003971136175096035,
+    "arousal": 0.001210666261613369,
+    "dominance": -0.010513493791222572
   },
   {
     "start": 2863.837,
@@ -925,7 +1270,10 @@
     "text": " That's the reason why we purchased Mellanox five and a half years ago. And Spectrum X, as we mentioned earlier, is now quite a sizable business. And it's only about a year and a half old. So Spectrum X is a home run. All three of them are going to be fantastic. NVLink, Scale Up, Spectrum X, and InfiniBand, Scale Out, and then Spectrum XGS for Scale Across.",
     "speaker": "Aaron Christopher Rakers",
     "speaker_confidence": 93.59756097560977,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0115.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0115.wav",
+    "valence": 0.0009759622626006603,
+    "arousal": 0.00958600826561451,
+    "dominance": -0.012976949103176594
   },
   {
     "start": 2895.68,
@@ -933,7 +1281,10 @@
     "text": " Your next question comes from Stacy Raskin with Bernstein Research. Your line is open. Hi, guys. Thanks for taking my question. I have a more tactical question for Collette. So on the guide, you know, over $7 billion, the vast bulk of that is going to be from data center. How do I think about apportioning that $7 billion across Blackwell versus Hopper?",
     "speaker": "Operator",
     "speaker_confidence": 96.96969696969697,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0116.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0116.wav",
+    "valence": -0.0034334135707467794,
+    "arousal": -0.00038855872116982937,
+    "dominance": -0.01302914135158062
   },
   {
     "start": 2922.292,
@@ -941,7 +1292,10 @@
     "text": " versus networking. I mean, it looks like Blackwell was probably $27 billion in the quarter up from maybe $23 billion last quarter. You know, Hopper still $6 or $7 billion post the H20. Like, do you think the Hopper strength continues? How do I think about parsing that $7 billion out across those three different components?",
     "speaker": "Operator",
     "speaker_confidence": 96.96969696969697,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0117.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0117.wav",
+    "valence": -0.0030982382595539093,
+    "arousal": -0.003633019980043173,
+    "dominance": -0.00711711123585701
   },
   {
     "start": 2942.12,
@@ -949,7 +1303,10 @@
     "text": " Thanks Stacey for the question. First part of it, looking at our growth between Q2 and Q3, Blackwell is still going to be the lion's share of what we have in terms of data center. But keep in mind that helps both our compute side as well as it helps our networking side because we are selling those significant systems that are incorporating the ending link that Johnson just spoke about.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.28269484808455,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0118.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0118.wav",
+    "valence": 0.0022486960515379906,
+    "arousal": 0.007409129291772842,
+    "dominance": -0.011084595695137978
   },
   {
     "start": 2970.723,
@@ -957,7 +1314,10 @@
     "text": " Selling Hopper, we are still selling it. H100, H200s, we are. But again, they are HCX systems, and I still believe our Blackwell will be the lion's share of what we're doing on there. So we'll continue. We don't have any more specific details in terms of how we'll finish our quarter, but you should expect Blackwell, again, to be the driver of the growth.",
     "speaker": "Colette M. Kress",
     "speaker_confidence": 98.28269484808455,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0119.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0119.wav",
+    "valence": 0.0032399408519268036,
+    "arousal": 0.009236142970621586,
+    "dominance": -0.0060151079669594765
   },
   {
     "start": 3001.25,
@@ -965,7 +1325,10 @@
     "text": " Your next question comes from Jim Schneider of Goldman Sachs. Your line is open. Good afternoon. Thanks for taking my question. You've been very clear about the reasoning model opportunity that you see, and you've also been relatively clear about the technical specs for Rubin. But maybe you could provide a little bit of context about how you view the Rubin product transition going forward.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0120.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0120.wav",
+    "valence": -0.007553731091320515,
+    "arousal": 0.0009848718764260411,
+    "dominance": -0.013338806107640266
   },
   {
     "start": 3025.415,
@@ -973,7 +1336,10 @@
     "text": " What incremental capability does that offer to customers? And would you say that Rubin is a bigger, smaller, or similar step up in terms of performance for capability perspective relative to what we saw at Blackwell? Thank you. Yeah, thanks. Rubin.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0121.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0121.wav",
+    "valence": 0.00931621715426445,
+    "arousal": 0.012617583386600018,
+    "dominance": -0.017229003831744194
   },
   {
     "start": 3052.06,
@@ -981,7 +1347,10 @@
     "text": " Ruben, we're on an annual cycle. And the reason why we're on an annual cycle is because we can do so to accelerate the cost reduction and maximize the revenue generation for our customers. When we increase the perf per watt, the token generation per amount of usage of energy,",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 99.62825278810409,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0122.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0122.wav",
+    "valence": 0.0017580236308276653,
+    "arousal": -0.0018683476373553276,
+    "dominance": -0.013664813712239265
   },
   {
     "start": 3081.406,
@@ -989,7 +1358,10 @@
     "text": " we are effectively driving the revenues of our customers. The perf per watt of Blackwell will be, for reasoning systems, an order of magnitude higher than Hopper. And so for the same amount of energy, and everybody's data center is energy limited by definition, for any data center that we, using Blackwell, you'll be able to maximize your revenues.",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 98.22485207100591,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0123.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0123.wav",
+    "valence": -0.008071969263255596,
+    "arousal": -0.006764507852494717,
+    "dominance": -0.011117512360215187
   },
   {
     "start": 3109.064,
@@ -997,7 +1369,10 @@
     "text": " compared to anything we've done in the past, compared to anything in the world today. And because the perf per dollar, the performance is so good that the perf per dollar invested in the capital would also allow you to improve your gross margins. To the extent that we have great ideas for every single generation, we could improve the revenue generation, improve the AI capability, improve the margins of our customers,",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0124.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0124.wav",
+    "valence": -0.005062987096607685,
+    "arousal": -0.009439287707209587,
+    "dominance": -0.011553537100553513
   },
   {
     "start": 3139.287,
@@ -1005,7 +1380,10 @@
     "text": " by releasing new architectures. And so we advise our partners, our customers to pace themselves and to build these data centers on an annual rhythm. And Ruben is going to have a whole bunch of new ideas. I pause for a second because I've got plenty of time between now and a year from now to tell you about all the breakthroughs that Ruben's are gonna bring. But Ruben has a lot of great ideas.",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 97.83001808318264,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0125.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0125.wav",
+    "valence": -0.0030082736629992723,
+    "arousal": 0.004519058857113123,
+    "dominance": -0.01886417716741562
   },
   {
     "start": 3169.865,
@@ -1013,7 +1391,10 @@
     "text": " I'm anxious to tell you, but I can't right now. And I'll save it for GTC to tell you more and more about it. But nonetheless, for the next year, we're ramping really hard into",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 97.83001808318264,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0126.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0126.wav",
+    "valence": -0.0019632261246442795,
+    "arousal": 0.006805688142776489,
+    "dominance": -0.0028367580380290747
   },
   {
     "start": 3184.006,
@@ -1021,7 +1402,10 @@
     "text": " Now, Grace Blackwell, GV200, and then now Blackwell Ultra, GV300 were ramping really hard into data centers. This year is obviously a record-breaking year. I expect next year to be a record-breaking year. And while we continue to increase the performance of AI capabilities as we",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 99.25925925925925,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0127.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0127.wav",
+    "valence": -0.005731198005378246,
+    "arousal": -0.0007492655422538519,
+    "dominance": -0.0020563104189932346
   },
   {
     "start": 3206.905,
@@ -1029,7 +1413,10 @@
     "text": " race towards artificial superintelligence on the one hand and continue to increase the revenue generation capabilities of our hyperscalers on the other hand. Your final question comes from Timothy Arcuri with UBS. Your line is open.",
     "speaker": "James Edward Schneider",
     "speaker_confidence": 99.25925925925925,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0128.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0128.wav",
+    "valence": 0.007682701572775841,
+    "arousal": 0.000653513241559267,
+    "dominance": -0.011618152260780334
   },
   {
     "start": 3231.661,
@@ -1037,7 +1424,10 @@
     "text": " Thanks a lot. Jensen, I wanted to ask you, just answer the question. You threw out a number. You said 50% CAGR for the AI market. So I'm wondering how much visibility that you have into next year. Is that kind of a reasonable bogey in terms of how much your data center revenue should grow next year? I would think you'll grow at least in line with that CAGR. And maybe are there any puts and takes to that? Thanks.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 97.32484076433121,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0129.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0129.wav",
+    "valence": -0.00625215470790863,
+    "arousal": -0.0011607436463236809,
+    "dominance": -8.895131759345531e-05
   },
   {
     "start": 3256.012,
@@ -1045,7 +1435,10 @@
     "text": " Well, I think that the best way to look at it is we have reasonable forecasts from our large customers for next year, a very, very significant forecast. And we still have a lot of businesses that we're still winning and a lot of startups that are still being created. Don't forget that the number of startups for AI native startups was 100 billion was funded last year.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 98.06094182825484,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0130.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0130.wav",
+    "valence": -0.0039394572377204895,
+    "arousal": 0.004867277108132839,
+    "dominance": -0.021166272461414337
   },
   {
     "start": 3285.391,
@@ -1053,7 +1446,10 @@
     "text": " This year, the year is not even over yet. It's $180 billion funded. If you look at AI native, the top AI native startups that are generating revenues, last year was $2 billion. This year is $20 billion. Next year being 10 times higher than this year is not inconceivable.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 96.13899613899613,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0131.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0131.wav",
+    "valence": 0.00197164760902524,
+    "arousal": -0.0018451083451509476,
+    "dominance": -0.011707903817296028
   },
   {
     "start": 3310.045,
@@ -1061,7 +1457,10 @@
     "text": " And the open source models is now opening up large enterprises, SaaS companies, industrial companies, robotics companies to now join the AI revolution, another source of growth. And whether it's AI natives or enterprise SaaS or industrial AI or startups, we're just seeing just enormous amount",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0132.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0132.wav",
+    "valence": -0.0003458659630268812,
+    "arousal": 0.006038106977939606,
+    "dominance": -0.014826511964201927
   },
   {
     "start": 3338.227,
@@ -1069,7 +1468,10 @@
     "text": " of interest in AI and demand for AI. Right now, the buzz is, I'm sure all of you know about the buzz out there, the buzz is everything's sold out. H100s are sold out, H200s are sold out. Large CSPs are coming out renting capacity from other CSPs. And so the AI native startups are really scrambling to get capacity so that they could train their reasoning models.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 98.01136363636364,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0133.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0133.wav",
+    "valence": -0.000387722160667181,
+    "arousal": 0.005870603956282139,
+    "dominance": -0.010493919253349304
   },
   {
     "start": 3368.77,
@@ -1077,7 +1479,10 @@
     "text": " So, the demand is really, really high. But the long-term outlook between where we are today, CapEx has doubled in two years. It is now running about $600 billion a year just in the large hyperscalers. You know, for us to grow into that $600 billion a year,",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 95.10204081632652,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0134.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0134.wav",
+    "valence": 0.0015966009814292192,
+    "arousal": 0.0011673513799905777,
+    "dominance": -0.016610801219940186
   },
   {
     "start": 3391.197,
@@ -1085,7 +1490,10 @@
     "text": " representing a significant part of that capex isn't unreasonable. And so I think the next several years, surely through the decade, we see just a really fast growing, really significant growth opportunities ahead. Let me conclude with this. Blackwell is the next generation AI platform the world's been waiting for.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 99.01960784313727,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0135.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0135.wav",
+    "valence": 0.006241112481802702,
+    "arousal": 0.004283181857317686,
+    "dominance": -0.016896024346351624
   },
   {
     "start": 3418.214,
@@ -1093,7 +1501,10 @@
     "text": " It delivers an exceptional generational leap. NVIDIA's NVLink 72 rack-scale computing is revolutionary, arriving just in time as reasoning AI models drive order of magnitude increases in training and inference performance requirement. Blackwell Ultra is ramping at full speed and the demand is extraordinary.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 98.79101899827289,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0136.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0136.wav",
+    "valence": -0.0030041146092116833,
+    "arousal": -0.008489781990647316,
+    "dominance": -0.006455621216446161
   },
   {
     "start": 3441.89,
@@ -1101,7 +1512,10 @@
     "text": " Our next platform, Rubin, is already in fab. We have six new chips that represents the Rubin platform. They have all taped up to TSMC. Rubin will be our third generation NVLink rack scale AI supercomputer. And so we expect to have a much more mature and fully scaled up supply chain.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 98.79101899827289,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0137.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0137.wav",
+    "valence": -0.0028326567262411118,
+    "arousal": -0.006345758214592934,
+    "dominance": -0.008147704415023327
   },
   {
     "start": 3464.215,
@@ -1109,7 +1523,10 @@
     "text": " Blackwell and Rubin AI Factory platforms will be scaling into the three to four trillion dollar global AI factory build out through the end of the decade. Customers are building ever greater scale AI factories. From thousands of Hopper GPUs in tens of megawatt data centers to now hundreds of thousands of Blackwells",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 95.54140127388536,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0138.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0138.wav",
+    "valence": -0.001703842543065548,
+    "arousal": 0.006347562186419964,
+    "dominance": -0.007140726782381535
   },
   {
     "start": 3493.19,
@@ -1117,7 +1534,10 @@
     "text": " in 100 megawatt facilities, and soon we'll be building millions of Rubin GPU platforms, powering multi-gigawatt, multi-site AI super factories. With each generation, demand only grows. One-shot chatbots have evolved into reasoning, agentic AI that research, plan, and use tools.",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 99.62121212121212,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0139.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0139.wav",
+    "valence": -0.0003436482511460781,
+    "arousal": -0.0015339151723310351,
+    "dominance": -0.010596413165330887
   },
   {
     "start": 3521.54,
@@ -1125,7 +1545,10 @@
     "text": " driving orders of magnitude jump and compute for both training and inference. Agentic AI is reaching maturity and has opened the enterprise market to build domain and company-specific AI agents for enterprise workflows, products, and services. The age of physical AI has arrived, unlocking entirely new industries and robotics, industrial automation,",
     "speaker": "Timothy Michael Arcuri",
     "speaker_confidence": 98.83040935672514,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0140.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0140.wav",
+    "valence": -0.0007877000607550144,
+    "arousal": -0.0027574747800827026,
+    "dominance": -0.007022668607532978
   },
   {
     "start": 3548.59,
@@ -1133,7 +1556,10 @@
     "text": " Every industrial company will need to build two factories, one to build the machines and another to build their robotic AI. This quarter, NVIDIA reached record revenues and an extraordinary milestone in our journey. The opportunity ahead is immense. A new industrial revolution has started. The AI races on.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0141.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0141.wav",
+    "valence": 0.0014262092299759388,
+    "arousal": 0.0020732004195451736,
+    "dominance": -0.011992914602160454
   },
   {
     "start": 3576.468,
@@ -1141,6 +1567,9 @@
     "text": " Thanks for joining us today, and I'll look forward to addressing you next week. Next earnings call. Thank you. This concludes today's conference call. You may now disconnect.",
     "speaker": "Operator",
     "speaker_confidence": 100.0,
-    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0142.wav"
+    "audio_file": "earnings-calls/NVDA/Q2_2026//slices/seg_0142.wav",
+    "valence": 0.002552029676735401,
+    "arousal": 0.004613054916262627,
+    "dominance": -0.01928121969103813
   }
 ]

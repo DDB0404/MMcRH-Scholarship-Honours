@@ -1,6 +1,7 @@
 # Audio files (stored on HuggingFace: baws004/nvda-audio)
 data/earnings-calls/
 *.mp3
+*.wav
 
 # Output directories (generated from processing)
 data/earnings-calls-split/

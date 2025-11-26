@@ -19,8 +19,8 @@ from playwright.sync_api import sync_playwright, Page, TimeoutError as Playwrigh
 
 
 # Configuration
-TRANSCRIPT_DIR = Path("/Users/dominicbyrne/MMcRH-Scholarship-Honours/data/earnings-transcripts/NVDA")
-AUDIO_DIR = Path("/Users/dominicbyrne/MMcRH-Scholarship-Honours/data/earnings-calls/NVDA")
+TRANSCRIPT_DIR = Path("data/earnings-transcripts/NVDA")
+AUDIO_DIR = Path("data/earnings-calls/NVDA")
 SEEKING_ALPHA_BASE = "https://seekingalpha.com"
 NVDA_EARNINGS_SEARCH = f"{SEEKING_ALPHA_BASE}/symbol/NVDA/earnings/transcripts"
 
@@ -486,10 +486,17 @@ def main(dry_run: bool = False, limit: Optional[int] = None, wait_for_login: boo
         logger.info("DRY RUN MODE - No files will be downloaded")
 
     with sync_playwright() as p:
+        # Create temp directory on external drive (internal disk is full)
+        playwright_temp = Path(__file__).parent.parent / ".playwright-temp"
+        playwright_temp.mkdir(exist_ok=True)
+
         # Launch browser (headless=False can help bypass some anti-bot measures)
         browser = p.chromium.launch(
             headless=False,
-            args=['--disable-blink-features=AutomationControlled']
+            args=[
+                '--disable-blink-features=AutomationControlled',
+                f'--user-data-dir={playwright_temp}'
+            ]
         )
         context = browser.new_context(
             user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
